@@ -3,7 +3,7 @@ package com.upao.ejercicio1;
 
 public class Account 
 {
-    public static final int ACCOUNTNUMBER=1334;
+    public static final int ACCOUNTNUMBER=1234567;
     public static final double BALANCE=0.0;
     
     private int accountnumber;
